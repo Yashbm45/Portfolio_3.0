@@ -10,10 +10,10 @@ const Hero = () => {
             Hi, I'm <span className="text-blue-600 dark:text-blue-400 inline-block animate-pulse">Yashwant Mahamuni</span>
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 transition-colors">
-            Full Stack Developer & Clould Enthusist
+            Data Analyst & Data Visualization Enthusiast
           </p>
           <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto mb-12 px-4 transition-colors">
-            I create beautiful and functional websites that help businesses grow and succeed in the digital world.
+            I transform complex data into clear, actionable insights that help businesses make smarter, data-driven decisions.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 px-4">
             <a
